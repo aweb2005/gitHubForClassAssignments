@@ -1,0 +1,1 @@
+I want to use the clone method to do most of my work locally on my laptop then push those changes up to GitHub online.
